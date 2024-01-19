@@ -1,1 +1,23 @@
 /*  your css code here. If applicable */
+#container
+{
+	background-color:lightslategray;
+	border:5px;
+	padding:10px;
+	border-radius:5px;
+}
+.circle
+{
+	border:5px;
+	padding:10px;
+	border-radius:50%;
+}
+#circle1{
+	background-color:red;
+}
+#circle1{
+	background-color:yellow;
+}
+#circle1{
+	background-color:green;
+}
